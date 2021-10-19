@@ -9,6 +9,9 @@ const person1 = new PersonN();
 console.log(person1.nameN); // Ben
 
 
+
+
+
 // 2.  Arrow Function Constructor
 
 let PersonA = () => {
